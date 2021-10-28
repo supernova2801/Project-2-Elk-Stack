@@ -35,7 +35,7 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 - Metricbeat collects the metrics of the operational state of a workstation on the network. some examples would be CPU usage, uptime, memory disks and more that getes sent to an output like logstash or elasticsearch.
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
+
 
 | Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
